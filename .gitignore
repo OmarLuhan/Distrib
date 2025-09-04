@@ -1,0 +1,8 @@
+.idea/
+publish/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+Distrib.sln.DotSettings

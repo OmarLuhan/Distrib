@@ -1,0 +1,6 @@
+@Distribt.Api.Private_HostAddress = http://localhost:5089
+
+GET {{Distribt.Api.Private_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
