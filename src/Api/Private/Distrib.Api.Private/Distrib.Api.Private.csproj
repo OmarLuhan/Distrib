@@ -11,4 +11,8 @@
         <Compile Include="..\..\..\Shared\Distrib.Shared.Setup\GlobalUsings.cs" Link="GlobalUsings.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Yarp.ReverseProxy" Version="2.3.0" />
+    </ItemGroup>
+
 </Project>
